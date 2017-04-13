@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PhoenixProject
 
 To start your Phoenix app:
@@ -18,3 +19,7 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Docs: https://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
+=======
+# Elixir-Project
+Test project to try out elixir functionality
+>>>>>>> 4d0b7a0b1df3129065b97fd2b5efe7a83b629a2f
